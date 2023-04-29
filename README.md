@@ -71,12 +71,7 @@ El request será asi:
 GET /muestras/anomalias/{idBoya} 
 Resultado Esperado: { “alturaNivelDelMarActual”: 30, “horarioInicioAnomalia”: “2020-08-05T05:05:65”, “horarioInicioFinAnomalia”: “2020-08-05T05:05:65”, “tipoAlerta”: “KAIJU” //Puede ser: KAIJU, IMPACTO } Para más referencias ver peliculas de: Godzilla Pacific Rim Battleship
 
-echo "# nooaChallenge" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/MatLeaP/nooaChallenge.git
-git push -u origin main
+
+
 
 
